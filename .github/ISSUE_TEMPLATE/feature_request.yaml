@@ -23,8 +23,8 @@ body:
      required: true
  - type: textarea
    id: tasks
-   label: tasks
    attributes:
+     label: tasks
      placeholder: |
        * example task
  - type: textarea
