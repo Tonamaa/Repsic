@@ -19,8 +19,6 @@ body:
        - Front End Build Task
        - Back End Build Task
        - Test Task
-   validations:
-     required: true
  - type: textarea
    id: tasks
    attributes:
