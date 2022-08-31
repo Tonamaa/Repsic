@@ -22,6 +22,11 @@ body:
    validations:
      required: true
  - type: textarea
+   id: tasks
+   attributes:
+     placeholder: |
+       * example task
+ - type: textarea
    id: additional
    attributes:
      label: Additional Context
