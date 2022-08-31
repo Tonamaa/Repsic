@@ -24,9 +24,7 @@ body:
  - type: textarea
    id: tasks
    attributes:
-     label: tasks
-     placeholder: |
-       * example task
+     label: Task example
  - type: textarea
    id: additional
    attributes:
