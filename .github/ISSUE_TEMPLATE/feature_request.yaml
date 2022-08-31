@@ -22,6 +22,7 @@ body:
    validations:
      required: true
  - type: textarea
+   id: tasks
    label: tasks
    attributes:
      placeholder: |
